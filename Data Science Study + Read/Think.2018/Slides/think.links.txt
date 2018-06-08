@@ -1,0 +1,12 @@
+IBM Think 2018 Resources
+
+https://github.com/IBMDataScience
+
+https://www.ibm.com/cloud/watson-studio?S_PKG=&cm_mmc=Search_Bing-_-IBM+Analytics_Watson+Data+Platform-_-WW_US-_-+data++science++experience+pricing_Broad_&cm_mmca1=000019OO&cm_mmca2=10000863&cm_mmca7=78641&cm_mmca8=kwd-81501347230796:loc-190&cm_mmca9=b20fdd8b-b610-4b2c-8e16-56bbd1f026f3&cm_mmca10=81501321649283&cm_mmca11=b&mkwid=b20fdd8b-b610-4b2c-8e16-56bbd1f026f3|456|214128&cvosrc=ppc.bing.%2Bdata%20%2Bscience%20%2Bexperience%20pricing&cvo_campaign=000019OO&cvo_crid=81501321649283&Matchtype=b
+
+https://www.ibm.com/cloud/machine-learning
+https://www.ibm.com/cloud/deep-learning
+
+https://www.ibm.com/cloud/watson-studio/resources
+
+https://datascience.ibm.com/community
